@@ -1,0 +1,45 @@
+.tabs{
+    margin: 0 auto;
+    margin-top: 3rem;
+    background-color:  #39a9a4;
+    width: 50%;
+    height: 30%;
+    margin-bottom: 1rem;
+}
+
+.tabs .tab-list{
+    padding-bottom: 3rem;
+        
+    display:inline-block;
+}
+
+.tabs .tab-item{
+    display: inline-block;
+    padding: 0.5rem 0.5rem;
+    cursor: pointer;
+    color: black;
+}
+
+.tabs .tab-item.active{
+    background-color: #e1704b;
+    color: white;
+}
+
+.tabs .tab-container{
+    margin: 0 auto;
+    width: 70%;
+    border-style: ridge;
+    border-color: yellowgreen;
+    border-width: 0.2rem;
+}
+
+.tabs .tab-content{
+    display: none;
+}
+
+.tabs .tab-content.active{
+
+    display: block;
+    color: black;
+}
+

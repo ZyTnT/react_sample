@@ -1,0 +1,79 @@
+footer {
+    margin-top: 4em;
+    background: #e1704b;
+    color: #e2a18c;
+    clear: both;
+    margin-top: 0; }
+    
+    footer ul {
+    margin: 0 0 3em 0!important;
+    padding: 0!important; }
+    
+    footer ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 1.5em;
+    margin-right: 1.5em; }
+    
+    footer ul li span {
+    background-position: 50%;
+    background-size: cover;
+    margin: 0 auto;
+    display: inline-block; }
+    
+    footer ul li span.twitter {
+        background-image:url(../picture/icon_twitter.png);
+        width:2.875rem;
+        height:2.5rem;
+    }
+    footer ul li span.instagram {
+        background-image:url(../picture/icon_instagram.png);
+        width:2.5rem;
+        height:2.5rem;
+    }
+    footer ul li span.email {
+        background-image:url(../picture/icon_email.png);
+        width:2.875rem;
+        height:2.5rem;
+    }
+    
+    
+
+    footer h2 {
+    color: #ffffff;
+    font-size: 2em; }
+    
+    footer p {
+    color: #ffffff;
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 3em;
+}
+
+    #copyright p {
+        font-size: .8em;
+        width: 100%;
+        margin-bottom: 0!important;}
+
+    #copyright {
+        text-align: center;
+        padding: 2em; }
+            
+    #copyright {
+        background: #d56540;	
+    }
+    
+    #privacy_words{
+        text-align: center;
+        margin-bottom: 0;
+    }
+
+    #privacy_link{
+        color: lightblue;
+        text-decoration: underline;
+        margin-bottom: 0;
+    }
+
+    #privacyPicture{
+        text-align: center;
+    }

@@ -1,0 +1,27 @@
+.project_title{
+    text-align: center;
+}
+
+.picture{
+    text-align: center;
+}
+
+p{
+    margin-left: 3rem;
+}
+
+a{
+    color: orange;
+}
+
+.tab_label{
+    color: white;
+    font-size: large;
+}
+
+
+@media only screen and (min-width: 0) and (max-width: 600px){
+    h1{
+        font-size: 20pt;
+    }   
+}
